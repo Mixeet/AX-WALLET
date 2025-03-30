@@ -1,0 +1,23 @@
+{
+	"name": "AX Wallet",
+	"short_name": "AX Wallet",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#000000",
+	"icons": [
+		{
+			"src": "icons/Иконка-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-256.png",
+			"sizes": "2828x2828",
+			"type": "image/png"
+		}
+	],
+	"screenshots": [],
+	"theme_color": "#000000"
+}
