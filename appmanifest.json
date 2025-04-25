@@ -1,23 +1,18 @@
 {
-	"name": "AX Wallet",
-	"short_name": "AX Wallet",
-	"description": "",
+	"name": "State Кошелёк",
+	"short_name": "State Кошелёк",
+	"description": "State Online Wallet",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
-	"background_color": "#000000",
+	"background_color": "#141415",
 	"icons": [
 		{
-			"src": "icons/Иконка-512.png",
-			"sizes": "512x512",
-			"type": "image/png"
-		},
-		{
 			"src": "icons/Иконка-256.png",
-			"sizes": "2828x2828",
+			"sizes": "512x512",
 			"type": "image/png"
 		}
 	],
 	"screenshots": [],
-	"theme_color": "#000000"
+	"theme_color": "#141415"
 }
